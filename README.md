@@ -1,4 +1,4 @@
-#Exygy Boilerplate Pattern Libary
+#Exygy Boilerplate Pattern Library
 
 Includes:
 
